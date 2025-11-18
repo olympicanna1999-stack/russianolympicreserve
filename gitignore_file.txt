@@ -1,0 +1,17 @@
+# Git ignore file
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.vscode/
+.DS_Store
+*.db
+*.log
+.streamlit/secrets.toml
+.env
+dist/
+build/

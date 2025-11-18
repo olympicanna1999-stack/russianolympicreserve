@@ -1,0 +1,7 @@
+mentor_id,full_name,sport,olympian,medals
+MENTOR001,Станислав Глушков,Гребля,True,3
+MENTOR002,Виктор Кравченко,Гребля,True,2
+MENTOR003,Людмила Прокопьева,Лыжные гонки,True,4
+MENTOR004,Сергей Чепиков,Лыжные гонки,True,2
+MENTOR005,Ольга Зайцева,Биатлон,True,5
+MENTOR006,Евгений Гараничев,Биатлон,True,3
